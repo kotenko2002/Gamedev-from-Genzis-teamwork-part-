@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2193627239
+    locked: 0
+  - name: Middle
+    uniqueID: 882291381
+    locked: 0
+  - name: Fore
+    uniqueID: 2415678235
+    locked: 0
+  - name: SkyLayer
+    uniqueID: 2810368007
+    locked: 0
+  - name: FirstFloraLayer
+    uniqueID: 289015719
+    locked: 0
+  - name: SecondFloraLayer
+    uniqueID: 191089417
+    locked: 0
+  - name: MineLayer
+    uniqueID: 4230486571
+    locked: 0
+  - name: GameWorldLayer
+    uniqueID: 189837525
+    locked: 0
+  - name: GameWorldLayerNotGround
+    uniqueID: 1188183441
+    locked: 0
+  - name: Entity
+    uniqueID: 2078903463
+    locked: 0
